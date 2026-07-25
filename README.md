@@ -31,10 +31,12 @@ The project was developed to strengthen my understanding of networking, socket p
 
 ## Project Structure
 
+```
 TCP-Port-Scanner/
 │── scanner.py
 │── results.txt
 │── README.md
+```
 
 ---
 
